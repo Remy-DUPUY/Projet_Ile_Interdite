@@ -1,5 +1,6 @@
 # Projet_Ile_Interdite
-Projet tutoré du semestre 2 du DUT Informatique : Programmation du jeu de société "L'ile Interdite" de Cocktailgames
+Projet tutoré du semestre 2 du DUT Informatique : Programmation du jeu de société "L'ile Interdite" de Cocktailgames.
+Le jeu a été élaboré grâce au pattern MVC. 
 
 ---
 Bonjour, 
